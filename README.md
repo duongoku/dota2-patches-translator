@@ -1,5 +1,5 @@
 # dota2-patches-translator
-Small program that can partly translate [*Dota2*](http://dota2.com/) Patches
+Small program that can partly translate [*Dota2*](http://dota2.com/) Patches into Vietnamese
 
 [![License is MIT](https://img.shields.io/github/license/duongoku/dota2-patches-translator)](./LICENSE)
 
