@@ -1,6 +1,14 @@
 # dota2-patches-translator
 Small program that can partly translate [*Dota2*](http://dota2.com/) Patches
 
+[![License is MIT](https://img.shields.io/github/license/duongoku/dota2-patches-translator)](./LICENSE)
+
+- [dota2-patches-translator](#dota2-patches-translator)
+	- [Prerequisites](#prerequisites)
+	- [How to run it](#how-to-run-it)
+	- [Side notes](#side-notes)
+	- [License](#license)
+
 ## Prerequisites
 - [**Go**](https://golang.org/), you can search on google on how to install it
 
