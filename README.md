@@ -2,6 +2,7 @@
 Small program that can partly translate [*Dota2*](http://dota2.com/) Patches into Vietnamese
 
 [![License is MIT](https://img.shields.io/github/license/duongoku/dota2-patches-translator)](./LICENSE)
+![Go](https://github.com/duongoku/dota2-patches-translator/workflows/Go/badge.svg?branch=master)
 
 - [dota2-patches-translator](#dota2-patches-translator)
 	- [Prerequisites](#prerequisites)
