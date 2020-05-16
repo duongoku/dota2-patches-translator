@@ -27,7 +27,7 @@ Small program that can partly translate [*Dota2*](http://dota2.com/) Patches int
 
 - Open *des.html* to see the result
 
-##Side notes
+## Side notes
 - **This will only translate parts of the file so you'll have to do the rest yourself**
 
 - **You may see some broken text, you will have to change the font yourself, [Google](http://google.com/) for more information**
